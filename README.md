@@ -1,0 +1,2 @@
+# Wheet_Grain_Prediction_and_Analysis_on_Indian_Dataset
+This project, Wheat Grain Prediction and Analysis, focuses on analyzing Indian wheat grain data to predict crop yields and quality. By leveraging statistical techniques and machine learning, it identifies patterns and trends in wheat production, helping improve agricultural practices, optimize yields, and support decision-making for Indian farmers.
